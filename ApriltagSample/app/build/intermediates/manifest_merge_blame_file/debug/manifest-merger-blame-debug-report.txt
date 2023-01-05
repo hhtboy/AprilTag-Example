@@ -1,0 +1,104 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="edu.umich.eecs.april.apriltag"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+8-->/Users/hhtboy/AndroidStudioProjects/ApriltagSample/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="33" />
+9-->/Users/hhtboy/AndroidStudioProjects/ApriltagSample/app/src/main/AndroidManifest.xml
+10
+11    <uses-feature
+11-->/Users/hhtboy/AndroidStudioProjects/ApriltagSample/app/src/main/AndroidManifest.xml:5:5-7:35
+12        android:name="android.hardware.camera"
+12-->/Users/hhtboy/AndroidStudioProjects/ApriltagSample/app/src/main/AndroidManifest.xml:6:9-47
+13        android:required="true" />
+13-->/Users/hhtboy/AndroidStudioProjects/ApriltagSample/app/src/main/AndroidManifest.xml:7:9-32
+14    <uses-feature android:name="android.hardware.camera.autofocus" />
+14-->/Users/hhtboy/AndroidStudioProjects/ApriltagSample/app/src/main/AndroidManifest.xml:8:5-70
+14-->/Users/hhtboy/AndroidStudioProjects/ApriltagSample/app/src/main/AndroidManifest.xml:8:19-67
+15    <uses-feature
+15-->/Users/hhtboy/AndroidStudioProjects/ApriltagSample/app/src/main/AndroidManifest.xml:9:5-78
+16        android:glEsVersion="0x00020000"
+16-->/Users/hhtboy/AndroidStudioProjects/ApriltagSample/app/src/main/AndroidManifest.xml:9:19-51
+17        android:required="true" />
+17-->/Users/hhtboy/AndroidStudioProjects/ApriltagSample/app/src/main/AndroidManifest.xml:9:52-75
+18
+19    <uses-permission android:name="android.permission.CAMERA" />
+19-->/Users/hhtboy/AndroidStudioProjects/ApriltagSample/app/src/main/AndroidManifest.xml:11:5-65
+19-->/Users/hhtboy/AndroidStudioProjects/ApriltagSample/app/src/main/AndroidManifest.xml:11:22-62
+20
+21    <application
+21-->/Users/hhtboy/AndroidStudioProjects/ApriltagSample/app/src/main/AndroidManifest.xml:13:5-35:19
+22        android:allowBackup="true"
+22-->/Users/hhtboy/AndroidStudioProjects/ApriltagSample/app/src/main/AndroidManifest.xml:14:9-35
+23        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+23-->[androidx.core:core:1.8.0] /Users/hhtboy/.gradle/caches/transforms-3/6a19de105318aab1da00cfa3c60fb56e/transformed/core-1.8.0/AndroidManifest.xml:24:18-86
+24        android:debuggable="true"
+25        android:extractNativeLibs="false"
+26        android:icon="@mipmap/apriltag"
+26-->/Users/hhtboy/AndroidStudioProjects/ApriltagSample/app/src/main/AndroidManifest.xml:15:9-40
+27        android:label="@string/app_name"
+27-->/Users/hhtboy/AndroidStudioProjects/ApriltagSample/app/src/main/AndroidManifest.xml:16:9-41
+28        android:supportsRtl="true"
+28-->/Users/hhtboy/AndroidStudioProjects/ApriltagSample/app/src/main/AndroidManifest.xml:17:9-35
+29        android:testOnly="true"
+30        android:theme="@style/AppTheme" >
+30-->/Users/hhtboy/AndroidStudioProjects/ApriltagSample/app/src/main/AndroidManifest.xml:18:9-40
+31        <activity
+31-->/Users/hhtboy/AndroidStudioProjects/ApriltagSample/app/src/main/AndroidManifest.xml:19:9-29:20
+32            android:name="edu.umich.eecs.april.apriltag.CameraActivity"
+32-->/Users/hhtboy/AndroidStudioProjects/ApriltagSample/app/src/main/AndroidManifest.xml:20:13-43
+33            android:configChanges="orientation|keyboardHidden|screenSize"
+33-->/Users/hhtboy/AndroidStudioProjects/ApriltagSample/app/src/main/AndroidManifest.xml:21:13-74
+34            android:exported="true"
+34-->/Users/hhtboy/AndroidStudioProjects/ApriltagSample/app/src/main/AndroidManifest.xml:23:13-36
+35            android:theme="@style/AppTheme" >
+35-->/Users/hhtboy/AndroidStudioProjects/ApriltagSample/app/src/main/AndroidManifest.xml:22:13-44
+36            <intent-filter>
+36-->/Users/hhtboy/AndroidStudioProjects/ApriltagSample/app/src/main/AndroidManifest.xml:24:13-28:29
+37                <action android:name="android.intent.action.MAIN" />
+37-->/Users/hhtboy/AndroidStudioProjects/ApriltagSample/app/src/main/AndroidManifest.xml:25:17-69
+37-->/Users/hhtboy/AndroidStudioProjects/ApriltagSample/app/src/main/AndroidManifest.xml:25:25-66
+38
+39                <category android:name="android.intent.category.LAUNCHER" />
+39-->/Users/hhtboy/AndroidStudioProjects/ApriltagSample/app/src/main/AndroidManifest.xml:27:17-77
+39-->/Users/hhtboy/AndroidStudioProjects/ApriltagSample/app/src/main/AndroidManifest.xml:27:27-74
+40            </intent-filter>
+41        </activity>
+42        <activity
+42-->/Users/hhtboy/AndroidStudioProjects/ApriltagSample/app/src/main/AndroidManifest.xml:30:9-34:20
+43            android:name="edu.umich.eecs.april.apriltag.SettingsActivity"
+43-->/Users/hhtboy/AndroidStudioProjects/ApriltagSample/app/src/main/AndroidManifest.xml:31:13-45
+44            android:label="@string/title_activity_settings"
+44-->/Users/hhtboy/AndroidStudioProjects/ApriltagSample/app/src/main/AndroidManifest.xml:33:13-60
+45            android:theme="@style/PreferencesTheme" >
+45-->/Users/hhtboy/AndroidStudioProjects/ApriltagSample/app/src/main/AndroidManifest.xml:32:13-52
+46        </activity>
+47
+48        <provider
+48-->[androidx.emoji2:emoji2:1.2.0] /Users/hhtboy/.gradle/caches/transforms-3/848773e611bbde5d3ec0ec3e63d01c98/transformed/emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
+49            android:name="androidx.startup.InitializationProvider"
+49-->[androidx.emoji2:emoji2:1.2.0] /Users/hhtboy/.gradle/caches/transforms-3/848773e611bbde5d3ec0ec3e63d01c98/transformed/emoji2-1.2.0/AndroidManifest.xml:25:13-67
+50            android:authorities="edu.umich.eecs.april.apriltag.androidx-startup"
+50-->[androidx.emoji2:emoji2:1.2.0] /Users/hhtboy/.gradle/caches/transforms-3/848773e611bbde5d3ec0ec3e63d01c98/transformed/emoji2-1.2.0/AndroidManifest.xml:26:13-68
+51            android:exported="false" >
+51-->[androidx.emoji2:emoji2:1.2.0] /Users/hhtboy/.gradle/caches/transforms-3/848773e611bbde5d3ec0ec3e63d01c98/transformed/emoji2-1.2.0/AndroidManifest.xml:27:13-37
+52            <meta-data
+52-->[androidx.emoji2:emoji2:1.2.0] /Users/hhtboy/.gradle/caches/transforms-3/848773e611bbde5d3ec0ec3e63d01c98/transformed/emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
+53                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+53-->[androidx.emoji2:emoji2:1.2.0] /Users/hhtboy/.gradle/caches/transforms-3/848773e611bbde5d3ec0ec3e63d01c98/transformed/emoji2-1.2.0/AndroidManifest.xml:30:17-75
+54                android:value="androidx.startup" />
+54-->[androidx.emoji2:emoji2:1.2.0] /Users/hhtboy/.gradle/caches/transforms-3/848773e611bbde5d3ec0ec3e63d01c98/transformed/emoji2-1.2.0/AndroidManifest.xml:31:17-49
+55            <meta-data
+55-->[androidx.lifecycle:lifecycle-process:2.4.1] /Users/hhtboy/.gradle/caches/transforms-3/a4f0fb44e9b56370f8c2ed23c9d5d030/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:31:13-33:52
+56                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+56-->[androidx.lifecycle:lifecycle-process:2.4.1] /Users/hhtboy/.gradle/caches/transforms-3/a4f0fb44e9b56370f8c2ed23c9d5d030/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:32:17-78
+57                android:value="androidx.startup" />
+57-->[androidx.lifecycle:lifecycle-process:2.4.1] /Users/hhtboy/.gradle/caches/transforms-3/a4f0fb44e9b56370f8c2ed23c9d5d030/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:33:17-49
+58        </provider>
+59    </application>
+60
+61</manifest>

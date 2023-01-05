@@ -1,0 +1,114 @@
+[
+    {
+        "merged": "edu.umich.eecs.april.apriltag.app-merged_res-29:/drawable-xxhdpi_ic_restore_white_24dp.png.flat",
+        "source": "edu.umich.eecs.april.apriltag.app-main-31:/drawable-xxhdpi/ic_restore_white_24dp.png"
+    },
+    {
+        "merged": "edu.umich.eecs.april.apriltag.app-merged_res-29:/mipmap-mdpi_apriltag.png.flat",
+        "source": "edu.umich.eecs.april.apriltag.app-main-31:/mipmap-mdpi/apriltag.png"
+    },
+    {
+        "merged": "edu.umich.eecs.april.apriltag.app-merged_res-29:/drawable-xxxhdpi_ic_restore_white_24dp.png.flat",
+        "source": "edu.umich.eecs.april.apriltag.app-main-31:/drawable-xxxhdpi/ic_restore_white_24dp.png"
+    },
+    {
+        "merged": "edu.umich.eecs.april.apriltag.app-merged_res-29:/drawable-xhdpi_ic_info_black_24dp.png.flat",
+        "source": "edu.umich.eecs.april.apriltag.app-main-31:/drawable-xhdpi/ic_info_black_24dp.png"
+    },
+    {
+        "merged": "edu.umich.eecs.april.apriltag.app-merged_res-29:/drawable-mdpi_ic_info_black_24dp.png.flat",
+        "source": "edu.umich.eecs.april.apriltag.app-main-31:/drawable-mdpi/ic_info_black_24dp.png"
+    },
+    {
+        "merged": "edu.umich.eecs.april.apriltag.app-merged_res-29:/mipmap-hdpi_april_lab.png.flat",
+        "source": "edu.umich.eecs.april.apriltag.app-main-31:/mipmap-hdpi/april_lab.png"
+    },
+    {
+        "merged": "edu.umich.eecs.april.apriltag.app-merged_res-29:/drawable-hdpi_ic_info_black_24dp.png.flat",
+        "source": "edu.umich.eecs.april.apriltag.app-main-31:/drawable-hdpi/ic_info_black_24dp.png"
+    },
+    {
+        "merged": "edu.umich.eecs.april.apriltag.app-merged_res-29:/drawable-mdpi_ic_restore_white_24dp.png.flat",
+        "source": "edu.umich.eecs.april.apriltag.app-main-31:/drawable-mdpi/ic_restore_white_24dp.png"
+    },
+    {
+        "merged": "edu.umich.eecs.april.apriltag.app-merged_res-29:/drawable-xhdpi_ic_restore_white_24dp.png.flat",
+        "source": "edu.umich.eecs.april.apriltag.app-main-31:/drawable-xhdpi/ic_restore_white_24dp.png"
+    },
+    {
+        "merged": "edu.umich.eecs.april.apriltag.app-merged_res-29:/mipmap-xhdpi_april_lab.png.flat",
+        "source": "edu.umich.eecs.april.apriltag.app-main-31:/mipmap-xhdpi/april_lab.png"
+    },
+    {
+        "merged": "edu.umich.eecs.april.apriltag.app-merged_res-29:/menu_main_menu.xml.flat",
+        "source": "edu.umich.eecs.april.apriltag.app-main-31:/menu/main_menu.xml"
+    },
+    {
+        "merged": "edu.umich.eecs.april.apriltag.app-merged_res-29:/drawable-xxhdpi_ic_info_black_24dp.png.flat",
+        "source": "edu.umich.eecs.april.apriltag.app-main-31:/drawable-xxhdpi/ic_info_black_24dp.png"
+    },
+    {
+        "merged": "edu.umich.eecs.april.apriltag.app-merged_res-29:/drawable-mdpi_ic_settings_white_24dp.png.flat",
+        "source": "edu.umich.eecs.april.apriltag.app-main-31:/drawable-mdpi/ic_settings_white_24dp.png"
+    },
+    {
+        "merged": "edu.umich.eecs.april.apriltag.app-merged_res-29:/drawable-xxhdpi_ic_settings_white_24dp.png.flat",
+        "source": "edu.umich.eecs.april.apriltag.app-main-31:/drawable-xxhdpi/ic_settings_white_24dp.png"
+    },
+    {
+        "merged": "edu.umich.eecs.april.apriltag.app-merged_res-29:/layout_main.xml.flat",
+        "source": "edu.umich.eecs.april.apriltag.app-main-31:/layout/main.xml"
+    },
+    {
+        "merged": "edu.umich.eecs.april.apriltag.app-merged_res-29:/mipmap-xxxhdpi_april_lab.png.flat",
+        "source": "edu.umich.eecs.april.apriltag.app-main-31:/mipmap-xxxhdpi/april_lab.png"
+    },
+    {
+        "merged": "edu.umich.eecs.april.apriltag.app-merged_res-29:/xml_pref_settings.xml.flat",
+        "source": "edu.umich.eecs.april.apriltag.app-main-31:/xml/pref_settings.xml"
+    },
+    {
+        "merged": "edu.umich.eecs.april.apriltag.app-merged_res-29:/mipmap-xxhdpi_april_lab.png.flat",
+        "source": "edu.umich.eecs.april.apriltag.app-main-31:/mipmap-xxhdpi/april_lab.png"
+    },
+    {
+        "merged": "edu.umich.eecs.april.apriltag.app-merged_res-29:/mipmap-xhdpi_apriltag.png.flat",
+        "source": "edu.umich.eecs.april.apriltag.app-main-31:/mipmap-xhdpi/apriltag.png"
+    },
+    {
+        "merged": "edu.umich.eecs.april.apriltag.app-merged_res-29:/drawable-hdpi_ic_settings_white_24dp.png.flat",
+        "source": "edu.umich.eecs.april.apriltag.app-main-31:/drawable-hdpi/ic_settings_white_24dp.png"
+    },
+    {
+        "merged": "edu.umich.eecs.april.apriltag.app-merged_res-29:/mipmap-xxhdpi_apriltag.png.flat",
+        "source": "edu.umich.eecs.april.apriltag.app-main-31:/mipmap-xxhdpi/apriltag.png"
+    },
+    {
+        "merged": "edu.umich.eecs.april.apriltag.app-merged_res-29:/drawable-xxxhdpi_ic_settings_white_24dp.png.flat",
+        "source": "edu.umich.eecs.april.apriltag.app-main-31:/drawable-xxxhdpi/ic_settings_white_24dp.png"
+    },
+    {
+        "merged": "edu.umich.eecs.april.apriltag.app-merged_res-29:/drawable-xxxhdpi_ic_info_black_24dp.png.flat",
+        "source": "edu.umich.eecs.april.apriltag.app-main-31:/drawable-xxxhdpi/ic_info_black_24dp.png"
+    },
+    {
+        "merged": "edu.umich.eecs.april.apriltag.app-merged_res-29:/mipmap-mdpi_april_lab.png.flat",
+        "source": "edu.umich.eecs.april.apriltag.app-main-31:/mipmap-mdpi/april_lab.png"
+    },
+    {
+        "merged": "edu.umich.eecs.april.apriltag.app-merged_res-29:/mipmap-hdpi_apriltag.png.flat",
+        "source": "edu.umich.eecs.april.apriltag.app-main-31:/mipmap-hdpi/apriltag.png"
+    },
+    {
+        "merged": "edu.umich.eecs.april.apriltag.app-merged_res-29:/drawable-xhdpi_ic_settings_white_24dp.png.flat",
+        "source": "edu.umich.eecs.april.apriltag.app-main-31:/drawable-xhdpi/ic_settings_white_24dp.png"
+    },
+    {
+        "merged": "edu.umich.eecs.april.apriltag.app-merged_res-29:/mipmap-xxxhdpi_apriltag.png.flat",
+        "source": "edu.umich.eecs.april.apriltag.app-main-31:/mipmap-xxxhdpi/apriltag.png"
+    },
+    {
+        "merged": "edu.umich.eecs.april.apriltag.app-merged_res-29:/drawable-hdpi_ic_restore_white_24dp.png.flat",
+        "source": "edu.umich.eecs.april.apriltag.app-main-31:/drawable-hdpi/ic_restore_white_24dp.png"
+    }
+]

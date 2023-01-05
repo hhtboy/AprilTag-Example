@@ -1,0 +1,27 @@
+{
+  "buildFiles": [
+    "/Users/hhtboy/AndroidStudioProjects/ApriltagSample/app/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/hhtboy/Library/Android/sdk/cmake/3.18.1/bin/ninja",
+      "-C",
+      "/Users/hhtboy/AndroidStudioProjects/ApriltagSample/app/.cxx/Debug/2m504v58/x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/hhtboy/Library/Android/sdk/cmake/3.18.1/bin/ninja",
+    "-C",
+    "/Users/hhtboy/AndroidStudioProjects/ApriltagSample/app/.cxx/Debug/2m504v58/x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "apriltag::@6890427a1f51a3e7e1df": {
+      "artifactName": "apriltag",
+      "abi": "x86",
+      "output": "/Users/hhtboy/AndroidStudioProjects/ApriltagSample/app/build/intermediates/cxx/Debug/2m504v58/obj/x86/libapriltag.so",
+      "runtimeFiles": []
+    }
+  }
+}

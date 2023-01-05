@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/hhtboy/AndroidStudioProjects/ApriltagSample/app/src/main/res"/><source path="/Users/hhtboy/AndroidStudioProjects/ApriltagSample/app/build/generated/res/rs/debug"/><source path="/Users/hhtboy/AndroidStudioProjects/ApriltagSample/app/build/generated/res/resValues/debug"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main" generated-set="main$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/hhtboy/AndroidStudioProjects/ApriltagSample/app/src/main/res"><file name="apriltag" path="/Users/hhtboy/AndroidStudioProjects/ApriltagSample/app/src/main/res/mipmap-mdpi/apriltag.png" qualifiers="mdpi-v4" type="mipmap"/><file name="april_lab" path="/Users/hhtboy/AndroidStudioProjects/ApriltagSample/app/src/main/res/mipmap-mdpi/april_lab.png" qualifiers="mdpi-v4" type="mipmap"/><file path="/Users/hhtboy/AndroidStudioProjects/ApriltagSample/app/src/main/res/values-v21/styles.xml" qualifiers="v21"><style name="AppTheme" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style><style name="PreferencesTheme" parent="android:ThemeOverlay.Material.Dark">
+        <item name="android:colorAccent">@color/colorAccent</item>
+    </style><style name="Widget.MyApp.Toolbar.Solid" parent="Widget.AppCompat.ActionBar">
+        <item name="android:background">@color/umBlue</item>
+    </style><style name="ThemeOverlay.MyApp.ActionBar" parent="ThemeOverlay.AppCompat.ActionBar">
+        <item name="android:textColorPrimary">@color/umMaize</item>
+    </style></file><file name="apriltag" path="/Users/hhtboy/AndroidStudioProjects/ApriltagSample/app/src/main/res/mipmap-hdpi/apriltag.png" qualifiers="hdpi-v4" type="mipmap"/><file name="april_lab" path="/Users/hhtboy/AndroidStudioProjects/ApriltagSample/app/src/main/res/mipmap-hdpi/april_lab.png" qualifiers="hdpi-v4" type="mipmap"/><file name="apriltag" path="/Users/hhtboy/AndroidStudioProjects/ApriltagSample/app/src/main/res/mipmap-xxxhdpi/apriltag.png" qualifiers="xxxhdpi-v4" type="mipmap"/><file name="april_lab" path="/Users/hhtboy/AndroidStudioProjects/ApriltagSample/app/src/main/res/mipmap-xxxhdpi/april_lab.png" qualifiers="xxxhdpi-v4" type="mipmap"/><file name="main" path="/Users/hhtboy/AndroidStudioProjects/ApriltagSample/app/src/main/res/layout/main.xml" qualifiers="" type="layout"/><file name="apriltag" path="/Users/hhtboy/AndroidStudioProjects/ApriltagSample/app/src/main/res/mipmap-xxhdpi/apriltag.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="april_lab" path="/Users/hhtboy/AndroidStudioProjects/ApriltagSample/app/src/main/res/mipmap-xxhdpi/april_lab.png" qualifiers="xxhdpi-v4" type="mipmap"/><file path="/Users/hhtboy/AndroidStudioProjects/ApriltagSample/app/src/main/res/values/colors.xml" qualifiers=""><color name="colorPrimary">@color/umBlue</color><color name="colorPrimaryDark">@color/umBlueDark</color><color name="colorAccent">@color/umMaize</color><color name="umBlue">#00274c</color><color name="umMaize">#ffcb05</color><color name="umBlueDark">#333333</color><color name="black_overlay">#66000000</color></file><file path="/Users/hhtboy/AndroidStudioProjects/ApriltagSample/app/src/main/res/values/styles.xml" qualifiers=""><style name="AppTheme" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style><style name="PreferencesTheme" parent="android:Theme.Holo">
+    </style><style name="Widget.MyApp.Toolbar.Solid" parent="Widget.AppCompat.ActionBar">
+        <item name="android:background">@color/umBlue</item>
+    </style><style name="ThemeOverlay.MyApp.ActionBar" parent="ThemeOverlay.AppCompat.ActionBar">
+        
+        <item name="android:textColorPrimary">@color/umMaize</item>
+    </style></file><file path="/Users/hhtboy/AndroidStudioProjects/ApriltagSample/app/src/main/res/values/strings.xml" qualifiers=""><string name="app_name">AprilTag</string><string name="help">Help</string><string name="settings">Settings</string><string name="about">About</string><string name="screenshot">Screenshot</string><string name="reset">Reset Settings</string><string name="title_activity_settings">Settings</string><string name="pref_header_apriltag">AprilTag Processing Options</string><string name="pref_title_refine_edges">Enable refine edges</string><string name="pref_description_refine_edges">Refines edges for better estimates at the cost of computation time</string><string name="pref_title_refine_decode">Enable refine decode</string><string name="pref_description_refine_decode">Refines decoding</string><string name="pref_title_refine_pose">Enable refine pose</string><string name="pref_description_refine_pose">Refines poses</string><string name="pref_title_decimation">Image decimation</string><string-array name="pref_decimation_list_titles">
+        <item>1 (no decimation)</item>
+        <item>1.5</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array><string-array name="pref_decimation_list_values">
+        <item>1</item>
+        <item>1.5</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array><string name="pref_title_sigma">Gaussian blur (sigma, in pixels)</string><string name="pref_default_sigma">0.0</string><string name="pref_title_nthreads">Number of threads</string><string name="pref_default_nthreads">0</string><string name="pref_title_tag_family">Tag family</string><string-array name="pref_tag_family_list_titles">
+        <item>tag36h11 (recommended)</item>
+        <item>tag36h10</item>
+        <item>tag25h9</item>
+        <item>tag25h7</item>
+        <item>tag16h5</item>
+    </string-array><string-array name="pref_tag_family_list_values">
+        <item>tag36h11</item>
+        <item>tag36h10</item>
+        <item>tag25h9</item>
+        <item>tag25h7</item>
+        <item>tag16h5</item>
+    </string-array><string name="pref_title_camera_facing">Camera</string><string-array name="pref_camera_facing_list_titles">
+        <item>Rear (default)</item>
+        <item>Front</item>
+    </string-array><string-array name="pref_camera_facing_list_values">
+        <item>1</item>
+        <item>0</item>
+    </string-array><string name="pref_title_camera_resolution">Camera resolution</string><string-array name="pref_camera_resolution_titles">
+        <item>1920 x 1080</item>
+        <item>720 x 480</item>
+    </string-array><string-array name="pref_camera_resolution_values">
+        <item>1080</item>
+        <item>480</item>
+    </string-array></file><file path="/Users/hhtboy/AndroidStudioProjects/ApriltagSample/app/src/main/res/values/attrs.xml" qualifiers=""><declare-styleable name="ButtonBarContainerTheme">
+        <attr format="reference" name="metaButtonBarStyle"/>
+        <attr format="reference" name="metaButtonBarButtonStyle"/>
+    </declare-styleable></file><file name="ic_restore_white_24dp" path="/Users/hhtboy/AndroidStudioProjects/ApriltagSample/app/src/main/res/drawable-xhdpi/ic_restore_white_24dp.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_settings_white_24dp" path="/Users/hhtboy/AndroidStudioProjects/ApriltagSample/app/src/main/res/drawable-xhdpi/ic_settings_white_24dp.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_info_black_24dp" path="/Users/hhtboy/AndroidStudioProjects/ApriltagSample/app/src/main/res/drawable-xhdpi/ic_info_black_24dp.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_restore_white_24dp" path="/Users/hhtboy/AndroidStudioProjects/ApriltagSample/app/src/main/res/drawable-xxhdpi/ic_restore_white_24dp.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="ic_settings_white_24dp" path="/Users/hhtboy/AndroidStudioProjects/ApriltagSample/app/src/main/res/drawable-xxhdpi/ic_settings_white_24dp.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="ic_info_black_24dp" path="/Users/hhtboy/AndroidStudioProjects/ApriltagSample/app/src/main/res/drawable-xxhdpi/ic_info_black_24dp.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="pref_settings" path="/Users/hhtboy/AndroidStudioProjects/ApriltagSample/app/src/main/res/xml/pref_settings.xml" qualifiers="" type="xml"/><file name="ic_restore_white_24dp" path="/Users/hhtboy/AndroidStudioProjects/ApriltagSample/app/src/main/res/drawable-hdpi/ic_restore_white_24dp.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_settings_white_24dp" path="/Users/hhtboy/AndroidStudioProjects/ApriltagSample/app/src/main/res/drawable-hdpi/ic_settings_white_24dp.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_info_black_24dp" path="/Users/hhtboy/AndroidStudioProjects/ApriltagSample/app/src/main/res/drawable-hdpi/ic_info_black_24dp.png" qualifiers="hdpi-v4" type="drawable"/><file name="main_menu" path="/Users/hhtboy/AndroidStudioProjects/ApriltagSample/app/src/main/res/menu/main_menu.xml" qualifiers="" type="menu"/><file name="ic_restore_white_24dp" path="/Users/hhtboy/AndroidStudioProjects/ApriltagSample/app/src/main/res/drawable-mdpi/ic_restore_white_24dp.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_settings_white_24dp" path="/Users/hhtboy/AndroidStudioProjects/ApriltagSample/app/src/main/res/drawable-mdpi/ic_settings_white_24dp.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_info_black_24dp" path="/Users/hhtboy/AndroidStudioProjects/ApriltagSample/app/src/main/res/drawable-mdpi/ic_info_black_24dp.png" qualifiers="mdpi-v4" type="drawable"/><file name="apriltag" path="/Users/hhtboy/AndroidStudioProjects/ApriltagSample/app/src/main/res/mipmap-xhdpi/apriltag.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="april_lab" path="/Users/hhtboy/AndroidStudioProjects/ApriltagSample/app/src/main/res/mipmap-xhdpi/april_lab.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="ic_restore_white_24dp" path="/Users/hhtboy/AndroidStudioProjects/ApriltagSample/app/src/main/res/drawable-xxxhdpi/ic_restore_white_24dp.png" qualifiers="xxxhdpi-v4" type="drawable"/><file name="ic_settings_white_24dp" path="/Users/hhtboy/AndroidStudioProjects/ApriltagSample/app/src/main/res/drawable-xxxhdpi/ic_settings_white_24dp.png" qualifiers="xxxhdpi-v4" type="drawable"/><file name="ic_info_black_24dp" path="/Users/hhtboy/AndroidStudioProjects/ApriltagSample/app/src/main/res/drawable-xxxhdpi/ic_info_black_24dp.png" qualifiers="xxxhdpi-v4" type="drawable"/></source><source path="/Users/hhtboy/AndroidStudioProjects/ApriltagSample/app/build/generated/res/rs/debug"/><source path="/Users/hhtboy/AndroidStudioProjects/ApriltagSample/app/build/generated/res/resValues/debug"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="debug$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/hhtboy/AndroidStudioProjects/ApriltagSample/app/src/debug/res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="debug" generated-set="debug$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/hhtboy/AndroidStudioProjects/ApriltagSample/app/src/debug/res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="generated$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"/><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="generated" generated-set="generated$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"/><mergedItems><configuration qualifiers=""><declare-styleable name="ButtonBarContainerTheme">
+        <attr format="reference" name="metaButtonBarStyle"/>
+        <attr format="reference" name="metaButtonBarButtonStyle"/>
+    </declare-styleable></configuration></mergedItems></merger>

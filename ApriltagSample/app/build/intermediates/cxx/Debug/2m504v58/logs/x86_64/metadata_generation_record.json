@@ -1,0 +1,184 @@
+[
+  {
+    "level_": 0,
+    "message_": "Start JSON generation. Platform version: 24 min SDK version: x86_64",
+    "file_": "/Users/hhtboy/AndroidStudioProjects/ApriltagSample/app/CMakeLists.txt",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 691859714
+  },
+  {
+    "level_": 0,
+    "message_": "rebuilding JSON /Users/hhtboy/AndroidStudioProjects/ApriltagSample/app/.cxx/Debug/2m504v58/x86_64/android_gradle_build.json due to:",
+    "file_": "/Users/hhtboy/AndroidStudioProjects/ApriltagSample/app/CMakeLists.txt",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1634312286
+  },
+  {
+    "level_": 0,
+    "message_": "- expected json /Users/hhtboy/AndroidStudioProjects/ApriltagSample/app/.cxx/Debug/2m504v58/x86_64/android_gradle_build.json file is not present, will remove stale json folder",
+    "file_": "/Users/hhtboy/AndroidStudioProjects/ApriltagSample/app/CMakeLists.txt",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -2146799062
+  },
+  {
+    "level_": 0,
+    "message_": "- missing previous command file /Users/hhtboy/AndroidStudioProjects/ApriltagSample/app/.cxx/Debug/2m504v58/x86_64/metadata_generation_command.txt, will remove stale json folder",
+    "file_": "/Users/hhtboy/AndroidStudioProjects/ApriltagSample/app/CMakeLists.txt",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -977560184
+  },
+  {
+    "level_": 0,
+    "message_": "- command changed from previous, will remove stale json folder",
+    "file_": "/Users/hhtboy/AndroidStudioProjects/ApriltagSample/app/CMakeLists.txt",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -106951122
+  },
+  {
+    "level_": 0,
+    "message_": "removing stale contents from \u0027/Users/hhtboy/AndroidStudioProjects/ApriltagSample/app/.cxx/Debug/2m504v58/x86_64\u0027",
+    "file_": "/Users/hhtboy/AndroidStudioProjects/ApriltagSample/app/CMakeLists.txt",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -75813437
+  },
+  {
+    "level_": 0,
+    "message_": "created folder \u0027/Users/hhtboy/AndroidStudioProjects/ApriltagSample/app/.cxx/Debug/2m504v58/x86_64\u0027",
+    "file_": "/Users/hhtboy/AndroidStudioProjects/ApriltagSample/app/CMakeLists.txt",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1536047567
+  },
+  {
+    "level_": 0,
+    "message_": "executing cmake /Users/hhtboy/Library/Android/sdk/cmake/3.18.1/bin/cmake \\\n  -H/Users/hhtboy/AndroidStudioProjects/ApriltagSample/app \\\n  -DCMAKE_SYSTEM_NAME\u003dAndroid \\\n  -DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON \\\n  -DCMAKE_SYSTEM_VERSION\u003d24 \\\n  -DANDROID_PLATFORM\u003dandroid-24 \\\n  -DANDROID_ABI\u003dx86_64 \\\n  -DCMAKE_ANDROID_ARCH_ABI\u003dx86_64 \\\n  -DANDROID_NDK\u003d/Users/hhtboy/Library/Android/sdk/ndk/23.1.7779620 \\\n  -DCMAKE_ANDROID_NDK\u003d/Users/hhtboy/Library/Android/sdk/ndk/23.1.7779620 \\\n  -DCMAKE_TOOLCHAIN_FILE\u003d/Users/hhtboy/Library/Android/sdk/ndk/23.1.7779620/build/cmake/android.toolchain.cmake \\\n  -DCMAKE_MAKE_PROGRAM\u003d/Users/hhtboy/Library/Android/sdk/cmake/3.18.1/bin/ninja \\\n  -DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003d/Users/hhtboy/AndroidStudioProjects/ApriltagSample/app/build/intermediates/cxx/Debug/2m504v58/obj/x86_64 \\\n  -DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003d/Users/hhtboy/AndroidStudioProjects/ApriltagSample/app/build/intermediates/cxx/Debug/2m504v58/obj/x86_64 \\\n  -DCMAKE_BUILD_TYPE\u003dDebug \\\n  -B/Users/hhtboy/AndroidStudioProjects/ApriltagSample/app/.cxx/Debug/2m504v58/x86_64 \\\n  -GNinja\n",
+    "file_": "/Users/hhtboy/AndroidStudioProjects/ApriltagSample/app/CMakeLists.txt",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 138912085
+  },
+  {
+    "level_": 0,
+    "message_": "/Users/hhtboy/Library/Android/sdk/cmake/3.18.1/bin/cmake \\\n  -H/Users/hhtboy/AndroidStudioProjects/ApriltagSample/app \\\n  -DCMAKE_SYSTEM_NAME\u003dAndroid \\\n  -DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON \\\n  -DCMAKE_SYSTEM_VERSION\u003d24 \\\n  -DANDROID_PLATFORM\u003dandroid-24 \\\n  -DANDROID_ABI\u003dx86_64 \\\n  -DCMAKE_ANDROID_ARCH_ABI\u003dx86_64 \\\n  -DANDROID_NDK\u003d/Users/hhtboy/Library/Android/sdk/ndk/23.1.7779620 \\\n  -DCMAKE_ANDROID_NDK\u003d/Users/hhtboy/Library/Android/sdk/ndk/23.1.7779620 \\\n  -DCMAKE_TOOLCHAIN_FILE\u003d/Users/hhtboy/Library/Android/sdk/ndk/23.1.7779620/build/cmake/android.toolchain.cmake \\\n  -DCMAKE_MAKE_PROGRAM\u003d/Users/hhtboy/Library/Android/sdk/cmake/3.18.1/bin/ninja \\\n  -DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003d/Users/hhtboy/AndroidStudioProjects/ApriltagSample/app/build/intermediates/cxx/Debug/2m504v58/obj/x86_64 \\\n  -DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003d/Users/hhtboy/AndroidStudioProjects/ApriltagSample/app/build/intermediates/cxx/Debug/2m504v58/obj/x86_64 \\\n  -DCMAKE_BUILD_TYPE\u003dDebug \\\n  -B/Users/hhtboy/AndroidStudioProjects/ApriltagSample/app/.cxx/Debug/2m504v58/x86_64 \\\n  -GNinja\n",
+    "file_": "/Users/hhtboy/AndroidStudioProjects/ApriltagSample/app/CMakeLists.txt",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 607466998
+  },
+  {
+    "level_": 0,
+    "message_": "Exiting generation of /Users/hhtboy/AndroidStudioProjects/ApriltagSample/app/.cxx/Debug/2m504v58/x86_64/compile_commands.json.bin normally",
+    "file_": "/Users/hhtboy/AndroidStudioProjects/ApriltagSample/app/CMakeLists.txt",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1365093868
+  },
+  {
+    "level_": 0,
+    "message_": "done executing cmake",
+    "file_": "/Users/hhtboy/AndroidStudioProjects/ApriltagSample/app/CMakeLists.txt",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -419297373
+  },
+  {
+    "level_": 0,
+    "message_": "write command file /Users/hhtboy/AndroidStudioProjects/ApriltagSample/app/.cxx/Debug/2m504v58/x86_64/metadata_generation_command.txt",
+    "file_": "/Users/hhtboy/AndroidStudioProjects/ApriltagSample/app/CMakeLists.txt",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 118918294
+  },
+  {
+    "level_": 0,
+    "message_": "JSON generation completed without problems",
+    "file_": "/Users/hhtboy/AndroidStudioProjects/ApriltagSample/app/CMakeLists.txt",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1518775711
+  }
+]

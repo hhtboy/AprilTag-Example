@@ -1,0 +1,4 @@
+/Users/hhtboy/Library/Android/sdk/cmake/3.18.1/bin/ninja \
+  -C \
+  /Users/hhtboy/AndroidStudioProjects/ApriltagSample/app/.cxx/Debug/2m504v58/x86 \
+  apriltag

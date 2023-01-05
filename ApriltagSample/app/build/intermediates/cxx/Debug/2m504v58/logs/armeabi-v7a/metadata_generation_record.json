@@ -1,0 +1,184 @@
+[
+  {
+    "level_": 0,
+    "message_": "Start JSON generation. Platform version: 24 min SDK version: armeabi-v7a",
+    "file_": "/Users/hhtboy/AndroidStudioProjects/ApriltagSample/app/CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -937805540
+  },
+  {
+    "level_": 0,
+    "message_": "rebuilding JSON /Users/hhtboy/AndroidStudioProjects/ApriltagSample/app/.cxx/Debug/2m504v58/armeabi-v7a/android_gradle_build.json due to:",
+    "file_": "/Users/hhtboy/AndroidStudioProjects/ApriltagSample/app/CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1867687164
+  },
+  {
+    "level_": 0,
+    "message_": "- expected json /Users/hhtboy/AndroidStudioProjects/ApriltagSample/app/.cxx/Debug/2m504v58/armeabi-v7a/android_gradle_build.json file is not present, will remove stale json folder",
+    "file_": "/Users/hhtboy/AndroidStudioProjects/ApriltagSample/app/CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -2093812614
+  },
+  {
+    "level_": 0,
+    "message_": "- missing previous command file /Users/hhtboy/AndroidStudioProjects/ApriltagSample/app/.cxx/Debug/2m504v58/armeabi-v7a/metadata_generation_command.txt, will remove stale json folder",
+    "file_": "/Users/hhtboy/AndroidStudioProjects/ApriltagSample/app/CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1756791032
+  },
+  {
+    "level_": 0,
+    "message_": "- command changed from previous, will remove stale json folder",
+    "file_": "/Users/hhtboy/AndroidStudioProjects/ApriltagSample/app/CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -950331893
+  },
+  {
+    "level_": 0,
+    "message_": "removing stale contents from \u0027/Users/hhtboy/AndroidStudioProjects/ApriltagSample/app/.cxx/Debug/2m504v58/armeabi-v7a\u0027",
+    "file_": "/Users/hhtboy/AndroidStudioProjects/ApriltagSample/app/CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1191245383
+  },
+  {
+    "level_": 0,
+    "message_": "created folder \u0027/Users/hhtboy/AndroidStudioProjects/ApriltagSample/app/.cxx/Debug/2m504v58/armeabi-v7a\u0027",
+    "file_": "/Users/hhtboy/AndroidStudioProjects/ApriltagSample/app/CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1989176901
+  },
+  {
+    "level_": 0,
+    "message_": "executing cmake /Users/hhtboy/Library/Android/sdk/cmake/3.18.1/bin/cmake \\\n  -H/Users/hhtboy/AndroidStudioProjects/ApriltagSample/app \\\n  -DCMAKE_SYSTEM_NAME\u003dAndroid \\\n  -DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON \\\n  -DCMAKE_SYSTEM_VERSION\u003d24 \\\n  -DANDROID_PLATFORM\u003dandroid-24 \\\n  -DANDROID_ABI\u003darmeabi-v7a \\\n  -DCMAKE_ANDROID_ARCH_ABI\u003darmeabi-v7a \\\n  -DANDROID_NDK\u003d/Users/hhtboy/Library/Android/sdk/ndk/23.1.7779620 \\\n  -DCMAKE_ANDROID_NDK\u003d/Users/hhtboy/Library/Android/sdk/ndk/23.1.7779620 \\\n  -DCMAKE_TOOLCHAIN_FILE\u003d/Users/hhtboy/Library/Android/sdk/ndk/23.1.7779620/build/cmake/android.toolchain.cmake \\\n  -DCMAKE_MAKE_PROGRAM\u003d/Users/hhtboy/Library/Android/sdk/cmake/3.18.1/bin/ninja \\\n  -DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003d/Users/hhtboy/AndroidStudioProjects/ApriltagSample/app/build/intermediates/cxx/Debug/2m504v58/obj/armeabi-v7a \\\n  -DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003d/Users/hhtboy/AndroidStudioProjects/ApriltagSample/app/build/intermediates/cxx/Debug/2m504v58/obj/armeabi-v7a \\\n  -DCMAKE_BUILD_TYPE\u003dDebug \\\n  -B/Users/hhtboy/AndroidStudioProjects/ApriltagSample/app/.cxx/Debug/2m504v58/armeabi-v7a \\\n  -GNinja\n",
+    "file_": "/Users/hhtboy/AndroidStudioProjects/ApriltagSample/app/CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -86651295
+  },
+  {
+    "level_": 0,
+    "message_": "/Users/hhtboy/Library/Android/sdk/cmake/3.18.1/bin/cmake \\\n  -H/Users/hhtboy/AndroidStudioProjects/ApriltagSample/app \\\n  -DCMAKE_SYSTEM_NAME\u003dAndroid \\\n  -DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON \\\n  -DCMAKE_SYSTEM_VERSION\u003d24 \\\n  -DANDROID_PLATFORM\u003dandroid-24 \\\n  -DANDROID_ABI\u003darmeabi-v7a \\\n  -DCMAKE_ANDROID_ARCH_ABI\u003darmeabi-v7a \\\n  -DANDROID_NDK\u003d/Users/hhtboy/Library/Android/sdk/ndk/23.1.7779620 \\\n  -DCMAKE_ANDROID_NDK\u003d/Users/hhtboy/Library/Android/sdk/ndk/23.1.7779620 \\\n  -DCMAKE_TOOLCHAIN_FILE\u003d/Users/hhtboy/Library/Android/sdk/ndk/23.1.7779620/build/cmake/android.toolchain.cmake \\\n  -DCMAKE_MAKE_PROGRAM\u003d/Users/hhtboy/Library/Android/sdk/cmake/3.18.1/bin/ninja \\\n  -DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003d/Users/hhtboy/AndroidStudioProjects/ApriltagSample/app/build/intermediates/cxx/Debug/2m504v58/obj/armeabi-v7a \\\n  -DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003d/Users/hhtboy/AndroidStudioProjects/ApriltagSample/app/build/intermediates/cxx/Debug/2m504v58/obj/armeabi-v7a \\\n  -DCMAKE_BUILD_TYPE\u003dDebug \\\n  -B/Users/hhtboy/AndroidStudioProjects/ApriltagSample/app/.cxx/Debug/2m504v58/armeabi-v7a \\\n  -GNinja\n",
+    "file_": "/Users/hhtboy/AndroidStudioProjects/ApriltagSample/app/CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 21233888
+  },
+  {
+    "level_": 0,
+    "message_": "Exiting generation of /Users/hhtboy/AndroidStudioProjects/ApriltagSample/app/.cxx/Debug/2m504v58/armeabi-v7a/compile_commands.json.bin normally",
+    "file_": "/Users/hhtboy/AndroidStudioProjects/ApriltagSample/app/CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1061547168
+  },
+  {
+    "level_": 0,
+    "message_": "done executing cmake",
+    "file_": "/Users/hhtboy/AndroidStudioProjects/ApriltagSample/app/CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1262678144
+  },
+  {
+    "level_": 0,
+    "message_": "write command file /Users/hhtboy/AndroidStudioProjects/ApriltagSample/app/.cxx/Debug/2m504v58/armeabi-v7a/metadata_generation_command.txt",
+    "file_": "/Users/hhtboy/AndroidStudioProjects/ApriltagSample/app/CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -2035032626
+  },
+  {
+    "level_": 0,
+    "message_": "JSON generation completed without problems",
+    "file_": "/Users/hhtboy/AndroidStudioProjects/ApriltagSample/app/CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 675394940
+  }
+]
